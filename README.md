@@ -1,5 +1,5 @@
 BANKIST APP: http://127.0.0.1:5501/BANKIST-APP/
-(Please click the above link to experience the online banking interface.)
+<br> (Please click the above link to experience the online banking interface.)
 # BANKIST-APP
 Created this "Bankist App" using HTML, CSS and JavaScript (NodeJs) with GUI using APIs. Bankist stands for 'minimalist banking'. It has online bank interface, and we can request for loan, transfer amount to other users and can also access i.e see the deposited amount in the respective account.                                                                                                                        
 I]
