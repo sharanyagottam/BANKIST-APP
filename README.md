@@ -3,10 +3,10 @@ BANKIST APP: http://127.0.0.1:5501/BANKIST-APP/
 Created this "Bankist App" using HTML, CSS and JavaScript (NodeJs) with GUI using APIs. Bankist stands for 'minimalist banking'. It has online bank interface, and we can request for loan, transfer amount to other users and can also access i.e see the deposited amount in the respective account.                                                                                                                        
 I]
 HOW TO ACCESS USERNAMES AND THEIR PASSWORDS ?? : There are four default Users in our bank and they are:
-1) 1st user: Satya Nadella; [USERNAME: sn ; PASSWORD: 1111]
-2) 2nd user: Sundar Pichai; [USERNAME: sp ; PASSWORD: 2222]
-3) 3rd user: David Solomon; [USERNAME: ds ; PASSWORD: 3333]
-4) 4th user: Jeff Bezos; [USERNAME: jb ; PASSWORD: 4444]
+1) 1st user: Satya Nadella  ;  [USERNAME: sn ; PASSWORD: 1111]
+2) 2nd user: Sundar Pichai  ;  [USERNAME: sp ; PASSWORD: 2222]
+3) 3rd user: David Solomon  ;  [USERNAME: ds ; PASSWORD: 3333]
+4) 4th user: Jeff Bezos     ;  [USERNAME: jb ; PASSWORD: 4444]
 <br> II] 
 WHAT'S THE FUNCTION OF "TIMER" IN THIS APP ?? : We have set the timer to 5min, that is we need to login again after 5 minutes of logging into any respective account. 
 
